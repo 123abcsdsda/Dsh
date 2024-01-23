@@ -5,6 +5,6 @@ public class Student {
     public static void main(String[] args) {
         String s = "asd";
         List<String> list = new ArrayList<>();
-        int a=2;
+        int a=3;
     }
 }
